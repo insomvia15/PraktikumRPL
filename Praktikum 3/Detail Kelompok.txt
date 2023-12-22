@@ -1,0 +1,10 @@
+Zerrin Pamungkas (G.231.21.0079)         : - Media Galery
+				  	   - Typography
+M. Hasif Rahman A.Z (G.231.21.0080)      : - Login Page
+				     	   - Pricing Tables
+Aelvicko Lindr Kelana (G.231.21.0083)    : - Form Validation
+				       	   - Form Wizard
+Rieke Rahma Dewi Chandra (G.231.21.0132) : - Invoice
+					   - Inbox
+Muhammad Rozaq Soegiyanto (G.231.21.0156): - Form Upload
+					   - Calendar
